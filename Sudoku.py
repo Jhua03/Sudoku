@@ -53,5 +53,5 @@ def solve(bo,row, column):
         return False 
 
 solve(board,0,0)
-print_board(board)
+
             
